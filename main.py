@@ -1,3 +1,5 @@
+__author__ = "Ongenix"
+
 import os;os.system('pip3 install praw') #setup
 import praw
 #===================
