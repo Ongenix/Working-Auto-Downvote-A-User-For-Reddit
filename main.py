@@ -29,4 +29,4 @@ for i in ((r.redditor(user).submissions.new(limit=limit))):
   except Exception as e:
     if debug:
       print(e)
-     else:1
+    else:1
