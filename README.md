@@ -1,5 +1,5 @@
 # Working-Auto-Downvote-For-Reddit
-
+Please only use this on your own server, I am not responsible for anything you do with this.
 # Setup
 1. Install python and main.py (just copy the code and paste it into a .py file)
 2. Fill in your reddit script data (follow the steps in main.py)
