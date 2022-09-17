@@ -1,6 +1,7 @@
 # Working-Auto-Downvote-For-Reddit
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)\n
-Please only use this on your own server, I am not responsible for anything you do with this.
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
+# REMEMBER
+Please only use this on your own server, I am not responsible for anything you do with this. Unless I am. 
 # Setup
 1. Install python and main.py (just copy the code and paste it into a .py file)
 2. Fill in your reddit script data (follow the steps in main.py)
