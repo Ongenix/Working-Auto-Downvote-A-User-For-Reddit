@@ -1,4 +1,5 @@
 # Working-Auto-Downvote-For-Reddit
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
 Please only use this on your own server, I am not responsible for anything you do with this.
 # Setup
 1. Install python and main.py (just copy the code and paste it into a .py file)
